@@ -1,5 +1,5 @@
-REMOTE
 LOCAL
+REMOTE
 
 # challenge-merge-conflicts-chay
 
